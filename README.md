@@ -1,6 +1,8 @@
 # Car_damage_Image_segmentation
 Car damage image segmentation project using U-Net
 
+차량 파손 자동 검출 프로그램
+
 성능 개선중
 u-net
 
